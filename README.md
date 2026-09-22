@@ -29,6 +29,7 @@ Target discharge follow-up (calls, home visits, case management) at
 patients with 2+ prior admissions. That group carries 2–4x the
 average risk a much smarter use of limited staff time than
 treating every patient the same way at discharge.
+![Readmission rate by prior inpatient visits](readmission_by_prior_visits.png)
 
 ## How it was built
 Python (pandas, scikit-learn) + SQL (SQLite) in Google Colab →

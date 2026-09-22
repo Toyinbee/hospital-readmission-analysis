@@ -21,8 +21,8 @@ The overall readmission rate is 11.2%. Age barely moves that number.
 What actually matters is whether a patient's been hospitalized
 before: patients with no prior admissions come back 8.4% of the
 time; patients with 8+ prior admissions come back over 44% of the
-time. That's the strongest signal in the whole dataset — and it's
-what a baseline predictive model picked up on too.
+time. That's the strongest signal in the whole dataset and it's
+what a baseline predictive model picked up on too
 
 ## What I'd recommend
 Target discharge follow-up (calls, home visits, case management) at

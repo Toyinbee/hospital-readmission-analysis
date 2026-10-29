@@ -39,6 +39,9 @@ required.
 ## Dashboard
 [Live Looker Studio dashboard](https://datastudio.google.com/reporting/583808d1-4b70-4dec-a24f-5522d0d27840)
 
+## Notion Case Study 
+https://app.notion.com/p/Hospital-Readmission-Risk-Analysis-3e1cd905012f817fb18de0c91a8dff81?source=copy_link
+
 ## Data source
 UCI ML Repository — Diabetes 130-US Hospitals (1999–2008)
 https://archive.ics.uci.edu/dataset/296/diabetes-130-us-hospitals-for-years-1999-2008
